@@ -1,11 +1,14 @@
-<script setup>
-import StudyCase from './components/StudyCase.vue'
-</script>
-
 <template>
-  <StudyCase />
+  <h1>Halo, ini Todo List Absensi</h1>
 </template>
 
+<script setup>
+// sementara kosong
+</script>
+
 <style scoped>
-/* Boleh hapus bagian style ini jika tidak perlu */
+h1 {
+  text-align: center;
+  margin-top: 50px;
+}
 </style>
